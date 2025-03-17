@@ -1,7 +1,7 @@
 # Plano de Estudos: Design Patterns em 14 Dias
 
-**Duração:** 14 dias  
-**Tempo por dia:** De 25 minutos a 1 hora
+**Duração:** 14 dias    
+**Tempo por dia:** De 25 minutos a 1 hora   
 **Foco:** Aprender os principais padrões e aplicá-los na prática
 
 ## Dia 1 - Introdução aos Design Patterns
