@@ -159,5 +159,3 @@
 ✅ Revise códigos antigos e veja onde aplicar padrões.  
 ✅ Não tente memorizar tudo, foque em entender o conceito.  
 ✅ Participe de discussões técnicas e revise código de projetos reais.
-
-> Esse plano vai te dar um conhecimento sólido de Design Patterns em apenas 14 dias. Me avise se precisar de materiais extras!
